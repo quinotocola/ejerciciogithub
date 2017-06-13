@@ -2,7 +2,7 @@ package ejerciciogithub;
 
 public class A {
 	
-	String a;
+	private String a;
 	private int b;
 	
 	

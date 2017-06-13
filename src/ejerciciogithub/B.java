@@ -2,6 +2,6 @@ package ejerciciogithub;
 
 public class B {
 
-	int a;
+	private int a;
 	String b;
 }
